@@ -1,22 +1,16 @@
 # teste-selecao-plsql-java
-
+----------
 Avaliação de conhecimento técnico
-=====================================
+Anderson Antunes
+anderson.ant.oli@gmail.com
 
-# Autor:
-----------
-* Anderson Antunes
-* anderson.ant.oli@gmail.com
-
-# Problemas envolvendo:
-----------
+# Exercícios sobre:
 * Lógica de programação
 * JAVA
 * SQL
 * Oracle PL/SQL
 
-# Informações sobre como foi desenvolvido o projeto
-----------
+# Como foi desenvolvido?
 Arquivos .sql foram executados e compilados utilizando a seguinte versão em máquina local:
 
 * Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
@@ -32,7 +26,6 @@ https://www.onlinegdb.com/
 
 
 # Comentários sobre as soluções apresentadas
-----------
 
 ## Exercício 02 - JAVA
 O exercício 2 cobrava uma solução para identificar e informar os números de 1 a 100 múltiplos de 3 e/ou 5 utilizando a menor quantidade de linhas de código possíveis.
